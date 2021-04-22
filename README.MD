@@ -1,0 +1,1 @@
+Instale as dependencias pip install -r requirements.txt
